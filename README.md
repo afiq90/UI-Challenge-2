@@ -1,6 +1,6 @@
 # UI Challenge 2
 
-UI challenge 2 based on this design dribble : 
+UI challenge 2 based on this dribble design  : 
 
 https://dribbble.com/shots/4249249-Cover/
 
