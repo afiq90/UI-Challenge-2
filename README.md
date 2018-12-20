@@ -1,6 +1,8 @@
 # UI Challenge 2
 
-A new Flutter project.
+UI challenge 2 based on this design dribble : 
+
+https://dribbble.com/shots/4249249-Cover/
 
 ## Getting Started
 
