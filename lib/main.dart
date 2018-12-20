@@ -287,17 +287,17 @@ class MyHomePage extends StatelessWidget {
               endColor: const Color(0xFF7D67E5),
             ),
             BuildPersonContent(
-              title: 'My Wallet',
+              title: 'My\tWallet',
               startColor: const Color(0xFF8930e8),
               endColor: const Color(0xFF1663c7),
             ),
             BuildPersonContent(
-              title: 'Game Center',
+              title: 'Game\tCenter',
               startColor: const Color(0xFFe86830),
               endColor: const Color(0xFFc7166f),
             ),
             BuildPersonContent(
-              title: 'My Fans',
+              title: 'My\tFans',
               startColor: const Color(0xFF4d2c19),
               endColor: const Color(0xFFe8e230),
             ),
